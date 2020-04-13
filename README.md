@@ -1,4 +1,4 @@
-This repository contains all Free PowerBI Dashboards created by Ariel Lomoctos.
+This repository contains all Free PowerBI Dashboards created by Ariel Lomoctos. <br>
 Don't Forget to Like, Share, and Subscribe to all videos.
 
 ## PowerBI Design #001: Executive Summary
